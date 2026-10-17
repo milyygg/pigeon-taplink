@@ -1,6 +1,6 @@
 # Pigeon Service Mini
 
-[Открыть TapLink мастера](https://milyygg.github.io/pigeon-taplink/)
+Посмотреть онлайн: [https://milyygg.github.io/pigeon-taplink/](https://milyygg.github.io/pigeon-taplink/)
 
 Сделал мобильный мини-сайт частного мастера по ремонту техники: услуги, формат работы, фотографии ремонта, отзывы и контакты.
 
